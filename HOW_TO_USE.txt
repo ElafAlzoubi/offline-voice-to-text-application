@@ -1,0 +1,47 @@
+==========================================
+  VOICE-TO-TEXT APP - Quick Start
+==========================================
+
+STEP 1: Install Dependencies
+-----------------------------
+Open terminal/command prompt in this folder and run:
+
+    pip install -r requirements.txt
+
+
+STEP 2: Run the App
+-----------------------------
+    python voice_to_text.py
+
+
+STEP 3: Use It
+-----------------------------
+1. A console window will appear
+2. HOLD "Ctrl + Space" while speaking
+3. RELEASE when done
+4. Text appears where your cursor is!
+
+
+WORKS IN:
+-----------------------------
+Word, Notepad, Browser, Email, Chat apps, etc.
+
+
+FEATURES:
+-----------------------------
+✓ 100% Offline - No internet needed
+✓ Free forever - No subscriptions
+✓ Fast - 1-2 second transcription
+✓ Private - Data stays on your computer
+
+
+TROUBLESHOOTING:
+-----------------------------
+• No text appears? Check microphone volume in Windows
+• Still issues? Read README.md for detailed setup
+
+
+==========================================
+Enjoy your free voice-to-text!
+==========================================
+

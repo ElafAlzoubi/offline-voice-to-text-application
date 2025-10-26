@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.spec
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Temporary audio files
+*.wav
+*.tmp
+
+# Test files
+test_*.py
+
