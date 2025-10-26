@@ -45,8 +45,8 @@ Transform your voice into text instantly with a simple keyboard shortcut. No int
 
 1. **Download this repository**
    ```bash
-   git clone https://github.com/yourusername/voice-to-text-app.git
-   cd voice-to-text-app
+   git clone https://github.com/ElafAlzoubi/offline-voice-to-text-application.git
+   cd offline-voice-to-text-application
    ```
 
 2. **Install dependencies**
@@ -153,7 +153,7 @@ Supports 90+ languages including Spanish, French, German, Chinese, Japanese, and
 - ✅ Some apps block global hotkeys - try in a different application
 - ✅ On macOS, grant Accessibility permissions
 
-For more help, check the [Issues](https://github.com/yourusername/voice-to-text-app/issues) page.
+For more help, check the [Issues](https://github.com/ElafAlzoubi/offline-voice-to-text-application/issues) page.
 
 ---
 
@@ -173,7 +173,7 @@ For more help, check the [Issues](https://github.com/yourusername/voice-to-text-
 
 Contributions are welcome! Here's how you can help:
 
-1. 🐛 Report bugs in [Issues](https://github.com/yourusername/voice-to-text-app/issues)
+1. 🐛 Report bugs in [Issues](https://github.com/ElafAlzoubi/offline-voice-to-text-application/issues)
 2. 💡 Suggest new features
 3. 🔧 Submit pull requests
 4. 📖 Improve documentation
@@ -197,10 +197,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: your.email@example.com
-- 💬 **Discord**: [Join our community](https://discord.gg/yourlink)
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
 - ⭐ **Star this repo** if you find it useful!
+- 🐛 **Report issues** on GitHub Issues
+- 💡 **Suggest features** via Pull Requests
 
 ---
 
@@ -217,18 +216,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/voice-to-text-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/voice-to-text-app?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/voice-to-text-app?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ElafAlzoubi/offline-voice-to-text-application?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ElafAlzoubi/offline-voice-to-text-application?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ElafAlzoubi/offline-voice-to-text-application?style=social)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Elaf Alzoubi](https://github.com/ElafAlzoubi)**
 
 If this project helped you, please consider giving it a ⭐!
 
-[Report Bug](https://github.com/yourusername/voice-to-text-app/issues) · [Request Feature](https://github.com/yourusername/voice-to-text-app/issues) · [Documentation](https://github.com/yourusername/voice-to-text-app/wiki)
+[Report Bug](https://github.com/ElafAlzoubi/offline-voice-to-text-application/issues) · [Request Feature](https://github.com/ElafAlzoubi/offline-voice-to-text-application/issues)
 
 </div>
